@@ -953,5 +953,4 @@ echo "✅ SSL Certificate: $(openssl x509 -in /etc/letsencrypt/live/qr.pjhpjh.kr
 
 **마지막 업데이트**: 2025년 9월 24일  
 **문서 버전**: v1.0  
-**모니터링 상태**: Active (24/7 운영)  
 **보안 등급**: Enterprise Level Security Monitoring
