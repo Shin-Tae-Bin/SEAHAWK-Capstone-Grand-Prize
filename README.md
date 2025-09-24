@@ -209,11 +209,6 @@ graph TB
 - 관리자 대시보드 실시간 모니터링
 - POS 결제 시뮬레이션
 
-### **🔗 라이브 데모** (개발 중)
-- **출입 시스템**: `https://qr.pjhpjh.kr/entry`
-- **결제 시스템**: `https://qr.pjhpjh.kr/payment`
-- **관리자 페이지**: `https://qr.pjhpjh.kr/admin`
-
 ---
 
 ## 📁 저장소 구조
