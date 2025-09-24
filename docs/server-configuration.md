@@ -587,15 +587,6 @@ sudo netstat -tulpn | grep LISTEN
 
 ---
 
-## 📞 문의 및 지원
-
-**신태빈 (Shin Tae-Bin)** - 시스템 보안 관리자
-- 📧 **Email**: root.bin.vi@gmail.com
-- 🏫 **소속**: 경복대학교 소프트웨어융합학과
-- 🛡️ **전문분야**: 서버 보안, 시스템 하드닝, Linux 관리
-
----
-
 **마지막 업데이트**: 2025년 9월 24일  
 **문서 버전**: v1.0  
 **적용 환경**: Rocky Linux 9.5 (SEAHAWK 프로덕션 서버)
