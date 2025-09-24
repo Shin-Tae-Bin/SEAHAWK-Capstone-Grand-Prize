@@ -215,27 +215,19 @@ graph TB
 
 ```
 SEAHAWK-Capstone-Grand-Prize/
-├── README.md                    # 프로젝트 메인 문서 (현재 파일)
-├── docs/                        # 문서화
-│   ├── 최종결과보고서.pdf        # 공식 제출 보고서
-│   ├── 시스템아키텍처.md         # 기술 아키텍처 상세 설명
-│   ├── 보안구현가이드.md         # 보안 설정 및 구현 방법
-│   └── API문서.md               # API 명세서
-├── src/                         # 소스 코드
-│   ├── flutter-entry/           # 출입용 Flutter 앱
-│   ├── flutter-payment/         # 결제용 Flutter 앱
-│   ├── nodejs-server/           # Node.js 백엔드
-│   ├── jsp-server/              # JSP 서버
-│   ├── admin-web/               # 관리자 웹페이지
-│   └── pos-simulator/           # POS 시뮬레이터
-├── demo/                        # 시연 자료
-│   ├── presentation.pdf         # 발표 자료
-│   ├── video-demo/              # 시연 영상
-│   └── screenshots/             # 스크린샷
-└── deployment/                  # 배포 및 설정
-    ├── nginx.conf               # Nginx 설정
-    ├── ssl-setup.sh             # SSL 인증서 설정 스크립트
-    └── docker-compose.yml       # 컨테이너 배포 설정
+├── README.md
+├── docs/
+│   ├── security-monitoring.md           # 실시간 보안 모니터링 시스템 구축 가이드
+│   ├── security-testing-report.md       # 침투 테스트 및 결과 보고서
+│   ├── server-configuration.md          # 서버 설정 상세 가이드
+│   └── ssl-certificate-management.md    # SSL 인증서 관리 가이드
+├── src/
+│   ├── SEAHAWK_POS_System/              # POS 시뮬레이터 소스 코드
+│   └── SEAHAWK_QR_UserApp/              # 사용자 앱 소스 코드
+└── deployment/
+    ├── nginx-configuration-analysis.md  # 운영 중인 Nginx 설정 분석 및 가이드
+    ├── server-hardening.sh.md           # 서버 보안 강화 스크립트 문서
+    └── ssl-setup.sh.md                  # SSL 설치 자동화 스크립트 문서
 ```
 
 ---
