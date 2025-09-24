@@ -950,14 +950,6 @@ echo "✅ SSL Certificate: $(openssl x509 -in /etc/letsencrypt/live/qr.pjhpjh.kr
 
 ---
 
-## 📞 문의 및 지원
-
-**신태빈 (Shin Tae-Bin)** - 보안 모니터링 전문가
-- 📧 **Email**: root.bin.vi@gmail.com
-- 🏫 **소속**: 경복대학교 소프트웨어융합학과
-- 🛡️ **전문분야**: 실시간 보안 모니터링, 침입 탐지, 로그 분석
-
----
 
 **마지막 업데이트**: 2025년 9월 24일  
 **문서 버전**: v1.0  
